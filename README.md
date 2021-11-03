@@ -11,5 +11,5 @@ Hosted at [here](https://fwb06chee.herokuapp.com/).
 Haunted places<br>
 Attributes:
 - address
-- zipcode
-- country
+- year
+- description
